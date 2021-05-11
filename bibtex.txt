@@ -1,0 +1,27 @@
+Bibtex in reverse chronological order:
+--------------------------------------
+@article{eerapu2021segnet,
+  title={O-SegNet: Robust Encoder and Decoder Architecture for Objects Segmentation From Aerial Imagery Data},
+  author={Eerapu, Karuna Kumari and Lal, Shyam and Narasimhadhan, AV},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year={2021},
+  publisher={IEEE}
+}
+@article{eerapu2019dense,
+  title={Dense refinement residual network for road extraction from aerial imagery data},
+  author={Eerapu, Karuna Kumari and Ashwath, Balraj and Lal, Shyam and Dell’Acqua, Fabio and Dhan, AV Narasimha},
+  journal={IEEE Access},
+  volume={7},
+  pages={151764--151782},
+  year={2019},
+  publisher={IEEE}
+}
+@article{kumari2018robust,
+  title={A robust framework for quality enhancement of aerial remote sensing images},
+  author={Kumari, Eerapu Karuna and Das, Devikalyan and Suresh, Shilpa and Lal, Shyam and Narasimhadhan, AV},
+  journal={Infrared Physics \& Technology},
+  volume={93},
+  pages={362--374},
+  year={2018},
+  publisher={Elsevier}
+}
